@@ -89,7 +89,7 @@ chore: обновить зависимости
 - Кастомные градиенты: `bg-gradient-warm`, `bg-gradient-hero`
 - Кастомные тени: `shadow-soft`, `shadow-warm`
 - Кастомные анимации: `animate-fade-in`, `animate-float`, `animate-pulse-subtle`
-- Dark mode через `class` (конфиг уже есть) — [заполни сам: используется ли тёмная тема на сайте?]
+- Dark mode — не используется (конфиг `darkMode: ["class"]` есть в tailwind, но тёмная тема на сайте не применяется)
 
 ---
 
